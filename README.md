@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**noeliacodes/noeliacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
 🌱 I’m currently studying Software Development at CIPFP Mislata.<br>💡 I’m transitioning from a career as a Physical Therapist, specialized in Chronic Pain and Sports Rehabilitation.<br>🚀 I’d love to combine my background in healthcare with technology to build meaningful apps and digital solutions.<br><br><br><br>
